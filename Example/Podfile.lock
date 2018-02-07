@@ -1,0 +1,16 @@
+PODS:
+  - ELTestPod (0.1.0)
+
+DEPENDENCIES:
+  - ELTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  ELTestPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ELTestPod: 1d6ca52edc59164a8b11e18c0d84d4c5b5802881
+
+PODFILE CHECKSUM: 03307fd8a4e97cf1cc709aba68213eb969611d46
+
+COCOAPODS: 1.3.1

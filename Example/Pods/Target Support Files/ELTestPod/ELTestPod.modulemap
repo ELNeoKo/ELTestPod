@@ -1,0 +1,6 @@
+framework module ELTestPod {
+  umbrella header "ELTestPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
